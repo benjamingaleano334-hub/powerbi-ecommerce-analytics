@@ -37,12 +37,22 @@ El objetivo fue obtener insights sobre ventas, categorías, clientes y métodos 
 
 ---
 
-## ✅ Conclusiones
-- El **ticket promedio** se mantiene estable, con variaciones según categoría y método de pago.  
-- Las **categorías Sports y Home & Kitchen** concentran la mayor parte de las ventas.  
-- El **método de pago más utilizado** es tarjeta de débito, aunque hay diversidad en las formas de pago.  
-- La **evolución mensual** muestra picos claros en determinados meses, lo que sugiere estacionalidad en las compras.  
-- La **distribución del ticket por cliente** indica que pocos clientes generan tickets altos, mientras la mayoría realiza compras más pequeñas.
+## ✅ Conclusiones del Dashboard
+
+- **Ventas Totales:** Alcanzaron los **69 millones**, mostrando un crecimiento sólido en el período analizado.  
+- **Ticket Promedio:** Se mantiene en torno a **18,96 mil**, lo que refleja un nivel de gasto estable por transacción.  
+- **Cantidad de Transacciones:** Con más de **3,66 mil operaciones**, se evidencia un volumen significativo de actividad en la plataforma.  
+
+### 📈 Insights clave
+- La **evolución mensual** muestra un incremento constante, con picos claros en determinados meses, lo que sugiere **estacionalidad en las compras**.  
+- En **ventas por categoría**, destacan **Clothing y Home & Kitchen** como las más fuertes, seguidas por Sports y Toys, lo que marca las preferencias de los clientes.  
+- La **distribución del ticket por clientes** revela que la mayoría de los compradores realizan tickets bajos, mientras que un grupo reducido concentra tickets altos, indicando un patrón de **clientes mayoristas vs minoristas**.  
+- Los **filtros de pago, mes y categoría** permiten identificar tendencias específicas y segmentar el análisis para decisiones más precisas.
+
+---
+
+👉 En resumen: el negocio muestra **crecimiento sostenido**, con categorías líderes y un ticket promedio estable. La segmentación por clientes y métodos de pago abre oportunidades para **estrategias de marketing personalizadas** y optimización de ventas.
+
 
 ---
 
