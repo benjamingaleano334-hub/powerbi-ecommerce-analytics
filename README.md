@@ -33,7 +33,7 @@ El objetivo fue obtener insights sobre ventas, categorías, clientes y métodos 
 ---
 
 ## 🖼️ Captura del Dashboard
-![Dashboard Ecommerce](./Captura%20dashboard.png)
+![Dashboard Ecommerce](./dashboard/Captura%20dashboard.png)
 
 ---
 
